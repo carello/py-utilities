@@ -1,0 +1,73 @@
+A warning occurred (42 apples
+An error occurred
+Info
+Info - logged in
+Info - logged in
+Info - Setting up login key
+Info - Setting up login key
+4/C1-dLNhpUaJ3wQFwejGjaqhTpKTUT9R3E5rMhMAVoxM
+Info - Setting up login key
+Info - Setting up login key
+key code: 4/wrLJS2wPC0ePJxHEjmnazEq0pULk9Pb8pLHGz92Cwys
+Info - Setting up login key
+Info - key code: 4/v5vdyzoH3PXgbGNUku0X8jbRLrFf0ieKFJLxcW9EtHA
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5bdc2ec>
+Info - Setting up login key
+Info - key code: 4/jZ5gc5cu8K4hZvZaV3kVd7heoaG7hEvx0HdHaN9npj8
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5d702ec>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - Setting up login key
+Info - key code: 4/W9h9KNO2shck3mSOv9WpYHTtOLoBcaKe5GWQH4zWf7Q
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5d802ec>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - Setting up login key
+Info - key code: 4/Hk12wPgzYMv_umJrtTbgKWOOTX3rX6RZRXupxhR5gl8
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5d80f2c>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - Setting up login key
+Info - key code: 4/Jpp4AAaAQQthxOHAyXpunXFtPlu2gJBK805nJhRg4pM
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5d18b2c>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - Setting up login key
+Info - key code: 4/lQO6pAP9_IrH3K2NFSxw1wj0T7Ljp6pORvMWM9_25hU
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5d18a4c>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - Setting up login key
+Info - key code: 4/z0enID99LqCIKGoRzrObFpCu_w92WZSllhjMfVFjaig
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5b9f1ac>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3600, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - Setting up login key
+Info - key code: 4/KqhT6_QDBuU1qvNMV1H5qe1nfN0QVJ35C3EBzBtv_1c
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5b9f1ac>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - key code: 4/uxGN2aIccCFP3XTWFXDMXQkYZ8Laz9J-_1ziwmVDolo
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5bfd06c>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3600, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - CURRENT USER CONNECTED - Chet
+Info - Setting up login key
+Info - key code: 4/-rbrWu2EHTPrVNvW5hsf7jTbmCmTzF7fFfk84NBAo1M
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5bdf1ac>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3600, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - CURRENT USER CONNECTED - Chet
+Info - Setting up login key
+Info - key code: 4/8Z4jNXBKhUJi0_PhkMOJeyK9iOc_NhTW7Jb2ui7dRiE
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5bdfd8c>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - CURRENT USER CONNECTED - Chet
+Info - Setting up login key
+Info - key code: 4/U48NjJ-c_SeMMckK26Og6mJLWMaWvvwpB7Iu7ZhWSzc
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5d461ac>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - CURRENT USER CONNECTED - Chet
+Info - Setting up login key
+Info - Setting up login key
+Info - key code: 4/RHOaPz5K2Gk02-CBLE3SbrazuI_rCCz8FpPJ_isz_wU
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5b8668c>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - CURRENT USER CONNECTED - Chet
+Info - Setting up login key
+Info - Setting up login key
+Info - key code: 4/Ifu5A3DJXXublY8aZCxzXODcwxemnHgl_Qyqs7n6xNg
+Info - Credentials upgrade : <oauth2client.client.OAuth2Credentials object at 0xb5df04ec>
+Info - Result : {u'issued_to': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'user_id': u'115262435156067096506', u'expires_in': 3599, u'access_type': u'offline', u'audience': u'809149959653-67g9262l9ovbmcg60edohrf5n20lqf13.apps.googleusercontent.com', u'scope': u'https://www.googleapis.com/auth/plus.me https://www.googleapis.com/auth/userinfo.email', u'email': u'cp2carello@gmail.com', u'verified_email': True}
+Info - JSON: {u'family_name': u'', u'name': u'', u'picture': u'https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg', u'email': u'cp2carello@gmail.com', u'given_name': u'', u'id': u'115262435156067096506', u'verified_email': True}
